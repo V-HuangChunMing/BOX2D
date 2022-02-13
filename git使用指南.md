@@ -36,5 +36,3 @@ git config --global user.email
 3. `git push origin master ` #发送你的提交到GitHub
 
 4. `git status `  # 查看git状态
-
-//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
